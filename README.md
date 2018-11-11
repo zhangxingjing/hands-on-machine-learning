@@ -10,9 +10,13 @@ Machine Learning Notebooks
 
 This project aims at teaching you the fundamentals of Machine Learning in
 python. 
+
 这个项目旨在传授你python中机器学习的基础知识。
 It contains the example code and solutions to the exercises in my O'Reilly book 
-它包含了我书中的代码和练习的解决方案。书的链接：[Hands-on Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do):
+
+它包含了我书中的代码和练习的解决方案。
+
+书的链接：[Hands-on Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do):
 
 [![book](http://akamaicovers.oreilly.com/images/0636920052289/cat.gif)](http://shop.oreilly.com/product/0636920052289.do)
 
@@ -25,9 +29,11 @@ Simply open the [Jupyter](http://jupyter.org/) notebooks you are interested in:
 # Installation
 # 安装
 First, you will need to install [git](https://git-scm.com/), if you don't have it already.
+
 首先，如果你还没有装[git](https://git-scm.com/)，你需要把它装上。
 
 Next, clone this repository by opening a terminal and typing the following commands:
+
 接着，打开终端输入以下命令就可以克隆这个respository。
 
     $ cd $HOME  # or any other development directory you prefer
@@ -35,11 +41,13 @@ Next, clone this repository by opening a terminal and typing the following comma
     $ cd handson-ml
 
 If you do not want to install git, you can instead download [master.zip](https://github.com/ageron/handson-ml/archive/master.zip), unzip it, rename the resulting directory to `handson-ml` and move it to your development directory.
+
 如果你实在不想装git，你也可以下载[master.zip](https://github.com/ageron/handson-ml/archive/master.zip)并解压，重命名解压后的文件夹为`handson-ml`，将其移动到你的开发文件夹。
 
 If you want to go through chapter 16 on Reinforcement Learning, you will need to [install OpenAI gym](https://gym.openai.com/docs) and its dependencies for Atari simulations.
 
 If you are familiar with Python and you know how to install Python libraries, go ahead and install the libraries listed in `requirements.txt` and jump to the [Starting Jupyter](#starting-jupyter) section. If you need detailed instructions, please read on.
+
 如果你对python很熟，知道怎么样装python库，直接装好`requirements.txt`里需要安装的库，然后跳到[Starting Jupyter](#starting-jupyter)部分。如果你需要详细的安装方法，请继续往下阅读。
 
 ## Python & Required Libraries
