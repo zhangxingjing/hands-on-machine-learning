@@ -1,9 +1,16 @@
+this is the code of book 'Hands-on Machine Learning with Scikit-Learn and TensorFlow', I annotate it and upload here. thanks ageron wrote this book to teach us ML, ckick [here]((https://github.com/ageron/handson-ml) to go to his repository.
+这个repository《Hands-on Machine Learning with Scikit-Learn and TensorFlow》书中的代码，我将代码进行了详细的解释。原书作者的repository点[这里](https://github.com/ageron/handson-ml)
+
 Machine Learning Notebooks
+
 机器学习notebook
 ==========================
 
 This project aims at teaching you the fundamentals of Machine Learning in
-python. 这个项目旨在传授你python中机器学习的基础知识。It contains the example code and solutions to the exercises in my O'Reilly book 它包含了我书中的代码和练习的解决方案。书的链接：[Hands-on Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do):
+python. 
+这个项目旨在传授你python中机器学习的基础知识。
+It contains the example code and solutions to the exercises in my O'Reilly book 
+它包含了我书中的代码和练习的解决方案。书的链接：[Hands-on Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do):
 
 [![book](http://akamaicovers.oreilly.com/images/0636920052289/cat.gif)](http://shop.oreilly.com/product/0636920052289.do)
 
