@@ -1,7 +1,10 @@
-### this is the code of book 'Hands-on Machine Learning with Scikit-Learn and TensorFlow' by Aurélien Géron, I annotate it and upload here. thanks Aurélien Géron wrote this book to teach us ML, ckick  [here](https://github.com/ageron/handson-ml) to go to his repository.
+### This is the code of book 'Hands-on Machine Learning with Scikit-Learn and TensorFlow' by Aurélien Géron, I annotate it and upload here. thanks Aurélien Géron wrote this book to teach us ML, ckick  [here](https://github.com/ageron/handson-ml) to go to his repository.
 
 ### 这个repository是Aurélien Géron所著《Hands-on Machine Learning with Scikit-Learn and TensorFlow》书中的代码，我将代码进行了详细的解释(更新中)。原书作者的repository点 [这里](https://github.com/ageron/handson-ml)
-
+更新状态：
+*第一章完结*
+*第二章ing*
+*第三章ing*
 
 Machine Learning Notebooks
 ==========================
