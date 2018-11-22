@@ -33,7 +33,7 @@ Simply open the [Jupyter](http://jupyter.org/) notebooks you are interested in:
 * or by cloning this repository and running Jupyter locally. This option lets you play around with the code. In this case, follow the installation instructions below.
 
 * 使用[jupyter.org的notebook查看器](http://nbviewer.jupyter.org/github/ageron/handson-ml/blob/master/index.ipynb)
-    * 注：[github.com的notebook查看器](https://github.com/ageron/handson-ml/blob/master/index.ipynb) 也可以用，但是它很慢，而且数学公式不能正确显示。
+    * 注：[github.com的notebook查看器](https://github.com/zhangxingjing/handson-ml/blob/master/index.ipynb) 也可以用，但是它很慢，而且数学公式不能正确显示。
 * 或者克隆这个repository在本地jupyter运行。这可以让你愉快的和代码玩耍。想在本地查看，请照着下面的安装引导走。
 
 # Installation
