@@ -1,6 +1,6 @@
 #### 这是对书中所附源码的详尽注释，希望能够给机器学习的入门者节省一些自学的时间。我把一些比较难以讲解的知识点放到了我的博客，博客和代码一起学习，会更容易理解这些知识点。
 ## 章节
-1. 机器学习概览:[github](01_the_machine_learning_landscape.ipynb)-[博客]()（待更新）
+1. 机器学习概览: [notebook](01_the_machine_learning_landscape.ipynb) | [博客]()（待更新）
 2. 端到端的机器学习项目:[github](02_end_to_end_machine_learning_project.ipynb)（已完结）
 3. 分类:[github](03_classification.ipynb)
 4. 训练线性模型:[github](04_training_linear_models.ipynb)
